@@ -1,0 +1,59 @@
+D:\AW 17\Source Code Visual Studio 19\Login Page Design UI\Login Page Design UI\bin\Debug\Login Page Design UI.exe.config
+D:\AW 17\Source Code Visual Studio 19\Login Page Design UI\Login Page Design UI\bin\Debug\Login Page Design UI.exe
+D:\AW 17\Source Code Visual Studio 19\Login Page Design UI\Login Page Design UI\bin\Debug\Login Page Design UI.pdb
+D:\AW 17\Source Code Visual Studio 19\Login Page Design UI\Login Page Design UI\bin\Debug\Guna.UI2.dll
+D:\AW 17\Source Code Visual Studio 19\Login Page Design UI\Login Page Design UI\obj\Debug\Login Page Design UI.csprojAssemblyReference.cache
+D:\AW 17\Source Code Visual Studio 19\Login Page Design UI\Login Page Design UI\obj\Debug\Login_Page_Design_UI.Form1.resources
+D:\AW 17\Source Code Visual Studio 19\Login Page Design UI\Login Page Design UI\obj\Debug\Login_Page_Design_UI.Properties.Resources.resources
+D:\AW 17\Source Code Visual Studio 19\Login Page Design UI\Login Page Design UI\obj\Debug\Login Page Design UI.csproj.GenerateResource.cache
+D:\AW 17\Source Code Visual Studio 19\Login Page Design UI\Login Page Design UI\obj\Debug\Login Page Design UI.csproj.CoreCompileInputs.cache
+D:\AW 17\Source Code Visual Studio 19\Login Page Design UI\Login Page Design UI\obj\Debug\Login Page Design UI.csproj.CopyComplete
+D:\AW 17\Source Code Visual Studio 19\Login Page Design UI\Login Page Design UI\obj\Debug\Login Page Design UI.exe
+D:\AW 17\Source Code Visual Studio 19\Login Page Design UI\Login Page Design UI\obj\Debug\Login Page Design UI.pdb
+C:\Users\marqe\Downloads\Compressed\Winform-Login-UI-Design-main\Winform-Login-UI-Design-main\Login Page Design UI\bin\Debug\FFGapple.exe.config
+C:\Users\marqe\Downloads\Compressed\Winform-Login-UI-Design-main\Winform-Login-UI-Design-main\Login Page Design UI\bin\Debug\FFGapple.exe
+C:\Users\marqe\Downloads\Compressed\Winform-Login-UI-Design-main\Winform-Login-UI-Design-main\Login Page Design UI\bin\Debug\FFGapple.pdb
+C:\Users\marqe\Downloads\Compressed\Winform-Login-UI-Design-main\Winform-Login-UI-Design-main\Login Page Design UI\bin\Debug\Guna.UI2.dll
+C:\Users\marqe\Downloads\Compressed\Winform-Login-UI-Design-main\Winform-Login-UI-Design-main\Login Page Design UI\obj\Debug\Login_Page_Design_UI.Form1.resources
+C:\Users\marqe\Downloads\Compressed\Winform-Login-UI-Design-main\Winform-Login-UI-Design-main\Login Page Design UI\obj\Debug\FFGapple.Properties.Resources.resources
+C:\Users\marqe\Downloads\Compressed\Winform-Login-UI-Design-main\Winform-Login-UI-Design-main\Login Page Design UI\obj\Debug\Login Page Design UI.csproj.GenerateResource.cache
+C:\Users\marqe\Downloads\Compressed\Winform-Login-UI-Design-main\Winform-Login-UI-Design-main\Login Page Design UI\obj\Debug\Login Page Design UI.csproj.CoreCompileInputs.cache
+C:\Users\marqe\Downloads\Compressed\Winform-Login-UI-Design-main\Winform-Login-UI-Design-main\Login Page Design UI\obj\Debug\Login Page Design UI.csproj.CopyComplete
+C:\Users\marqe\Downloads\Compressed\Winform-Login-UI-Design-main\Winform-Login-UI-Design-main\Login Page Design UI\obj\Debug\FFGapple.exe
+C:\Users\marqe\Downloads\Compressed\Winform-Login-UI-Design-main\Winform-Login-UI-Design-main\Login Page Design UI\obj\Debug\FFGapple.pdb
+C:\Users\marqe\Downloads\Compressed\Winform-Login-UI-Design-main\Winform-Login-UI-Design-main\Login Page Design UI\obj\Debug\FFGapple.Ana.resources
+C:\Users\marqe\Downloads\Compressed\Winform-Login-UI-Design-main\Winform-Login-UI-Design-main\Login Page Design UI\obj\Debug\FFGapple.exe.licenses
+C:\Users\marqe\Downloads\Compressed\Winform-Login-UI-Design-main\Winform-Login-UI-Design-main\Login Page Design UI\bin\Debug\CmlLib.dll
+C:\Users\marqe\Downloads\Compressed\Winform-Login-UI-Design-main\Winform-Login-UI-Design-main\Login Page Design UI\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\marqe\Downloads\Compressed\Winform-Login-UI-Design-main\Winform-Login-UI-Design-main\Login Page Design UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\marqe\Downloads\Compressed\Winform-Login-UI-Design-main\Winform-Login-UI-Design-main\Login Page Design UI\bin\Debug\SevenZip.dll
+C:\Users\marqe\Downloads\Compressed\Winform-Login-UI-Design-main\Winform-Login-UI-Design-main\Login Page Design UI\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\marqe\Downloads\Compressed\Winform-Login-UI-Design-main\Winform-Login-UI-Design-main\Login Page Design UI\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\marqe\Downloads\Compressed\Winform-Login-UI-Design-main\Winform-Login-UI-Design-main\Login Page Design UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\marqe\Downloads\Compressed\Winform-Login-UI-Design-main\Winform-Login-UI-Design-main\Login Page Design UI\bin\Debug\SevenZip.xml
+C:\Users\marqe\Downloads\Compressed\Winform-Login-UI-Design-main\Winform-Login-UI-Design-main\Login Page Design UI\obj\Debug\FFGapple.DeveloperMode.resources
+C:\Users\marqe\Downloads\Compressed\Winform-Login-UI-Design-main\Winform-Login-UI-Design-main\Login Page Design UI\obj\Debug\Login Page Design UI.csprojAssemblyReference.cache
+C:\Users\kaotic\Desktop\Kayıp İsim Dosyası (12)\Login Page Design UI\obj\Debug\Login Page Design UI.csproj.AssemblyReference.cache
+C:\Users\kaotic\Desktop\Kayıp İsim Dosyası (12)\Login Page Design UI\obj\Debug\Login Page Design UI.csproj.SuggestedBindingRedirects.cache
+C:\Users\kaotic\Desktop\Kayıp İsim Dosyası (12)\Login Page Design UI\obj\Debug\FFGapple.Ana.resources
+C:\Users\kaotic\Desktop\Kayıp İsim Dosyası (12)\Login Page Design UI\obj\Debug\FFGapple.DeveloperMode.resources
+C:\Users\kaotic\Desktop\Kayıp İsim Dosyası (12)\Login Page Design UI\obj\Debug\Login_Page_Design_UI.Form1.resources
+C:\Users\kaotic\Desktop\Kayıp İsim Dosyası (12)\Login Page Design UI\obj\Debug\FFGapple.Properties.Resources.resources
+C:\Users\kaotic\Desktop\Kayıp İsim Dosyası (12)\Login Page Design UI\obj\Debug\Login Page Design UI.csproj.GenerateResource.cache
+C:\Users\kaotic\Desktop\Kayıp İsim Dosyası (12)\Login Page Design UI\obj\Debug\FFGapple.exe.licenses
+C:\Users\kaotic\Desktop\Kayıp İsim Dosyası (12)\Login Page Design UI\obj\Debug\FFGapple.exe
+C:\Users\kaotic\Desktop\Kayıp İsim Dosyası (12)\Login Page Design UI\obj\Debug\FFGapple.pdb
+C:\Users\kaotic\Desktop\Kayıp İsim Dosyası (12)\Login Page Design UI\obj\Debug\Login Page Design UI.csproj.CoreCompileInputs.cache
+C:\Users\kaotic\Desktop\Kayıp İsim Dosyası (12)\Login Page Design UI\bin\Debug\FFGapple.exe.config
+C:\Users\kaotic\Desktop\Kayıp İsim Dosyası (12)\Login Page Design UI\bin\Debug\FFGapple.exe
+C:\Users\kaotic\Desktop\Kayıp İsim Dosyası (12)\Login Page Design UI\bin\Debug\FFGapple.pdb
+C:\Users\kaotic\Desktop\Kayıp İsim Dosyası (12)\Login Page Design UI\bin\Debug\CmlLib.dll
+C:\Users\kaotic\Desktop\Kayıp İsim Dosyası (12)\Login Page Design UI\bin\Debug\Guna.UI2.dll
+C:\Users\kaotic\Desktop\Kayıp İsim Dosyası (12)\Login Page Design UI\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\kaotic\Desktop\Kayıp İsim Dosyası (12)\Login Page Design UI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kaotic\Desktop\Kayıp İsim Dosyası (12)\Login Page Design UI\bin\Debug\SevenZip.dll
+C:\Users\kaotic\Desktop\Kayıp İsim Dosyası (12)\Login Page Design UI\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\kaotic\Desktop\Kayıp İsim Dosyası (12)\Login Page Design UI\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\kaotic\Desktop\Kayıp İsim Dosyası (12)\Login Page Design UI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kaotic\Desktop\Kayıp İsim Dosyası (12)\Login Page Design UI\bin\Debug\SevenZip.xml
+C:\Users\kaotic\Desktop\Kayıp İsim Dosyası (12)\Login Page Design UI\obj\Debug\Login Page Design UI.csproj.CopyComplete
