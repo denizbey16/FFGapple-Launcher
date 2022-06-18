@@ -75,7 +75,7 @@ namespace FFGapple
             //    MessageBox.Show(res.Result.ToString());
 
             //    // it will save your login information into json file
-            //    res = await auth.Authenticate("cadenbane22@gmail.com", "Reyizefe11*");
+            //    
             //}
 
             //MessageBox.Show(res.ToString());
